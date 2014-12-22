@@ -1,0 +1,17 @@
+{
+  "name": "testem-reload-failure",
+  "version": "0.0.0",
+  "description": "Testem Reload Issue ===================",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+     "test": "testem"
+   },
+  "author": "Matt Ma",
+  "license": "MIT",
+  "devDependencies": {
+    "testem": "~0.6.24"
+  }
+}
